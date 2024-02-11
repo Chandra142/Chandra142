@@ -1,0 +1,42 @@
+1.
+/*#include <stdio.h>
+int main(){
+   int var1=9,var2=6,var3;
+    var3=(var1+var2);
+    printf("%i",var3);
+}
+
+
+2.
+#include<stdio.h>
+int main(){
+    int a=1,b=2,c=3,d;
+    d=a*b*c;
+    printf("\nProduct is:%d",d);
+    return 0;
+}
+
+3.
+
+#include <stdio.h>
+int main() 
+{
+    float pi= 3.14,r=3,z;
+    z=pi*r*r;
+    printf("a_o_c:%f",z);
+}
+
+
+
+4
+
+#include <stdio.h>
+int main ()
+{
+    int principal=99;
+    float rate= 1.5;
+    int tim= 3;
+    float amount;
+    amount= principal*rate*tim;
+    printf("this is the amount %f",amount);
+}

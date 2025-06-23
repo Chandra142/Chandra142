@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandra142
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Programming Language in Lovely Professional University   
+- 👀 I’m interested in machine learnig  and data engineering.
+- 🌱 I’m currently persuing B.Tech in Lovely Professional University   
 - 💞️ I’m looking to collaborate with all of you .
 - 📫 How to reach me ramchandargupta142@gmail.com
 

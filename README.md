@@ -46,7 +46,6 @@
 
 ---
 
----
 
 ## 🛠️ Tech Stack-
 
@@ -89,6 +88,17 @@
 
 
 ---
+## 🧠 The ML Pipeline (Tech Stack)
+
+| **Stage** | **Arsenal** |
+| :--- | :--- |
+| **Data Engineering** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql) |
+| **Modeling & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) ![Scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn) |
+| **GenAI & NLP** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai) |
+| **Deployment** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
+
+---
+
 
 ## 📊 GitHub Stats
 

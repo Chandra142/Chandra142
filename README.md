@@ -23,30 +23,6 @@
 
 ---
 
-### 👨‍💻 Identity Matrix (The Code Bio)
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Chandra Gupta"
-        self.role = "AI & ML Engineer"
-        self.language = ["Python", "English", "Hindi"]
-        
-    def current_focus(self):
-        return {
-            "Research": "Low-Resource NLP (Nepali)",
-            "Building": "Retrieval-Augmented Generation (RAG) Pipelines",
-            "Learning": "Large Language Model Fine-Tuning"
-        }
-        
-    def mission(self):
-        return "Bridging the gap between theoretical papers and production code."
-
-me = MLEngineer()
-print(me.current_focus())
-```
-
----
-
 ### 🧠 The ML Pipeline (Tech Stack)
 
 | **Stage** | **Arsenal** |

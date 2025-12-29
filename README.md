@@ -1,63 +1,148 @@
-# Hi there, I'm Chandra Gupta! 👋
-### 🚀 AI & Machine Learning Engineer | NLP, RAG & Computer Vision Specialist
+<!DOCTYPE html>
+<html lang="en">
 
-<div align="center">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Preview - The Pythonic Builder</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 40px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
 
-[![Website](https://img.shields.io/badge/Personal%20Website-Visit-ff69b4?style=for-the-badge&logo=firefox)](https://chandra142.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandra142/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ramchandargupta142@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Chandra142&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+        .header {
+            text-align: center;
+        }
 
-</div>
+        .code-block {
+            background-color: #161b22;
+            padding: 20px;
+            border-radius: 6px;
+            border: 1px solid #30363d;
+            font-family: 'Fira Code', monospace;
+            color: #79c0ff;
+            white-space: pre;
+            overflow-x: auto;
+        }
 
----
+        .keyword {
+            color: #ff7b72;
+        }
 
-### 🧠 About Me
-- 🔭 Currently working on **Advanced RAG Systems** and **Low-Resource NLP** for Nepali.
-- 👯 Open to collaborating on **AI Research, Generative AI applications, and Computer Vision projects**.
-- 🛠️ Skilled in **LangChain, Vector Databases, Transformers, and scalable ML Pipelines**.
-- 💡 I believe in **learning by building**—transforming theoretical papers into working code.
-- 📫 Reach me at **ramchandargupta142@gmail.com**
+        .string {
+            color: #a5d6ff;
+        }
 
----
+        .function {
+            color: #d2a8ff;
+        }
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandra142&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+        h3 {
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 10px;
+            margin-top: 40px;
+            font-family: -apple-system, sans-serif;
+        }
 
----
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
 
-### 🚀 Tech Stack
+        td,
+        th {
+            border: 1px solid #30363d;
+            padding: 10px;
+            text-align: left;
+        }
 
-#### 🤖 AI, Generative AI & Deep Learning
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
-  </a>
-</div>
+        th {
+            background-color: #161b22;
+        }
+    </style>
+</head>
 
-- **Generative AI:** Retrieval-Augmented Generation (RAG), LLM Fine-Tuning, LangChain, Hugging Face.
-- **Computer Vision:** CNNs, Object Detection (YOLO), Image Segmentation.
+<body>
 
-#### 📊 Data Engineering & Analytics
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,scikitlearn&theme=dark" />
-  </a>
-</div>
+    <div class="header">
+        <!-- Static placeholder for typing SVG -->
+        <h2 style="color: #3399FF;">&gt; input: Chandra.role<br>&gt; output: "AI Engineer"</h2>
+        <h3>Turning Data into Intelligence 🧠</h3>
 
-#### 🛠️ Backend & Tools
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,docker,linux,vscode,github&theme=dark" />
-  </a>
-</div>
+        <div style="display:flex; justify-content:center; gap:10px; margin-top:20px;">
+            <span
+                style="background:#0A66C2; color:white; padding:5px 10px; border-radius:15px; font-family:sans-serif; font-size:0.8em;">LinkedIn</span>
+            <span
+                style="background:#EA4335; color:white; padding:5px 10px; border-radius:15px; font-family:sans-serif; font-size:0.8em;">Email</span>
+            <span
+                style="background:#7e22ce; color:white; padding:5px 10px; border-radius:15px; font-family:sans-serif; font-size:0.8em;">Portfolio</span>
+        </div>
+    </div>
 
----
+    <h3>👨‍💻 Identity Matrix (The Code Bio)</h3>
+    <div class="code-block">
+        <span class="keyword">class</span> <span class="function">MLEngineer</span>:
+        <span class="keyword">def</span> <span class="function">__init__</span>(self):
+        self.name = <span class="string">"Chandra Gupta"</span>
+        self.role = <span class="string">"AI & ML Engineer"</span>
+        self.language = [<span class="string">"Python"</span>, <span class="string">"English"</span>, <span
+            class="string">"Hindi"</span>]
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandra142&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra142&theme=radical&hide_border=true" width="48%" />
-</div>
+        <span class="keyword">def</span> <span class="function">current_focus</span>(self):
+        <span class="keyword">return</span> {
+        <span class="string">"Research"</span>: <span class="string">"Low-Resource NLP (Nepali)"</span>,
+        <span class="string">"Building"</span>: <span class="string">"RAG Pipelines"</span>,
+        <span class="string">"Learning"</span>: <span class="string">"LLM Fine-Tuning"</span>
+        }
+
+        me = MLEngineer()
+        print(me.current_focus())
+    </div>
+
+    <h3>🧠 The ML Pipeline (Tech Stack)</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Stage</th>
+                <th>Arsenal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Data Engineering</strong></td>
+                <td>Pandas • NumPy • SQL</td>
+            </tr>
+            <tr>
+                <td><strong>Modeling & AI</strong></td>
+                <td>TensorFlow • PyTorch • Scikit-Learn</td>
+            </tr>
+            <tr>
+                <td><strong>GenAI & NLP</strong></td>
+                <td>LangChain • HuggingFace • OpenAI</td>
+            </tr>
+            <tr>
+                <td><strong>Deployment</strong></td>
+                <td>Docker • Streamlit • Git</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>📊 GitHub Analytics (Dark Mode)</h3>
+    <div style="display:flex; gap:10px; margin-top:20px;">
+        <div
+            style="flex:1; height:150px; background:#0d1117; border:1px solid #30363d; display:flex; align-items:center; justify-content:center; color:#8b949e;">
+            Stats Card (Gotham Theme)</div>
+        <div
+            style="flex:1; height:150px; background:#0d1117; border:1px solid #30363d; display:flex; align-items:center; justify-content:center; color:#8b949e;">
+            Streak Card (Gotham Theme)</div>
+    </div>
+
+</body>
+
+</html>

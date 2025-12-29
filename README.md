@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Chandra Gupta</h1>
 <h3 align="center">💻 AI & Machine Learning Engineer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>   
+
 <p align="center">
     <!-- 3D Neural Network Animation -->
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
@@ -22,17 +23,12 @@
   <a href="https://www.linkedin.com/in/chandra142/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto:ramchandargupta142@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
   <a href="https://chandra142.github.io" target="_blank" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="https://leetcode.com/u/Chandra142/" target="_blank" title="LeetCode">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://codolio.com/profile/Chandra142" target="_blank" title="Codolio">
+    <img src="https://img.shields.io/badge/Codolio-Profile-4D4D4D?style=for-the-badge&logo=codewars&logoColor=white" alt="Codolio" />
   </a>
 </p>
 
@@ -51,6 +47,7 @@
 
 ---
 
+---
 
 ## 🛠️ Tech Stack-
 
@@ -65,7 +62,7 @@
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(255, 111, 0, 0.6);" />
   </a>
   <a href="https://opencv.org/" target="_blank" title="OpenCV" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0, 255, 0, 0.6);" />
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" style="border-radius:12px; box-shadow: 0 255 0, 0.6);" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(247, 147, 30, 0.6);" />
@@ -93,17 +90,6 @@
 
 
 ---
-## 🧠 The ML Pipeline (Tech Stack)
-
-| **Stage** | **Arsenal** |
-| :--- | :--- |
-| **Data Engineering** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql) |
-| **Modeling & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) ![Scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn) |
-| **GenAI & NLP** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai) |
-| **Deployment** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
-
----
-
 
 ## 📊 GitHub Stats
 
@@ -134,6 +120,21 @@
 
 
 ---
+
+## 🏆 Competitive Programming & Problem Solving
+
+| 🌐 Platform | 🏅 Rating / Rank | 🔗 Profile Badge |
+| :--- | :--- | :--- |
+| **LeetCode** | **1415** (Max) | <a href="https://leetcode.com/u/Chandra142" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25"/></a> |
+| **GeeksForGeeks** | **200+** Problems | <a href="https://www.geeksforgeeks.org/user/ramchandargupta142" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="25"/></a> |
+| **CodeChef** | **1 Star** (937) | <a href="https://www.codechef.com/users/chandra_gupta0" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="25"/></a> |
+| **Codeforces** | **Max Pupil** | <a href="https://codeforces.com/profile/ramchandargupta142" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="25"/></a> |
+| **HackerRank** | **5 Star** (Java) | <a href="https://www.hackerrank.com/profile/ramchandargupta1" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="25"/></a> |
+| **AtCoder** | Participant | <a href="https://atcoder.jp/users/Chandra_142" target="_blank"><img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" height="25"/></a> |
+| **Coding Ninjas** | Problem Solver | <a href="https://www.naukri.com/code360/profile/MrChandra" target="_blank"><img src="https://img.shields.io/badge/-CodeStudio-004482?style=for-the-badge&logo=codingninjas&logoColor=white" height="25"/></a> |
+
+---
+
 ### 🏅 Open Source Contributor
 
 <p align="center">
@@ -207,10 +208,4 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and crea
 
 📧 Email: ramchandargupta142@gmail.com  
 💬 DM me on [LinkedIn](https://www.linkedin.com/in/chandra142/)  
-
-
-## 🧠 Want This Profile?
-
-**Star this repo** or **fork it** to use as your own base.
-
 ---

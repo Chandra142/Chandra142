@@ -2,6 +2,11 @@
 <h1 align="center">Hey 👋, I'm Chandra Gupta</h1>
 <h3 align="center">💻 AI & Machine Learning Engineer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>   
 <p align="center">
+    <!-- 3D Neural Network Animation -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
+</p>
+
+<p align="center">
  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer+from+India;Building+Intelligent+RAG+Systems;Always+Learning+Something+New" />
 
 </p>  

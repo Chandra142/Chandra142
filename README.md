@@ -1,148 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- Unique AI Engineer Profile - "The Pythonic Builder" Theme -->
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Preview - The Pythonic Builder</title>
-    <style>
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: 'Courier New', Courier, monospace;
-            padding: 40px;
-            max-width: 800px;
-            margin: 0 auto;
+<div align="center">
+  
+  <!-- Typing SVG: Dynamic header that types out your skills -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Engineer;Building+RAG+Systems+for+Nepali;Exploring+Computer+Vision+%26+NLP;Learning+By+Building" alt="Typing SVG" />
+
+  <h3 align="center">Turning Data into Intelligence 🧠</h3>
+
+  <!-- Social Capsules - Clean & Minimal -->
+  <p align="center">
+    <a href="https://linkedin.com/in/chandra142">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:ramchandargupta142@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Collaborate-EA4335?style=for-the-badge&logo=gmail" />
+    </a>
+    <a href="https://chandra142.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Demo-7e22ce?style=for-the-badge&logo=vercel" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 Identity Matrix (The Code Bio)
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name = "Chandra Gupta"
+        self.role = "AI & ML Engineer"
+        self.language = ["Python", "English", "Hindi"]
+        
+    def current_focus(self):
+        return {
+            "Research": "Low-Resource NLP (Nepali)",
+            "Building": "Retrieval-Augmented Generation (RAG) Pipelines",
+            "Learning": "Large Language Model Fine-Tuning"
         }
+        
+    def mission(self):
+        return "Bridging the gap between theoretical papers and production code."
 
-        .header {
-            text-align: center;
-        }
+me = MLEngineer()
+print(me.current_focus())
+```
 
-        .code-block {
-            background-color: #161b22;
-            padding: 20px;
-            border-radius: 6px;
-            border: 1px solid #30363d;
-            font-family: 'Fira Code', monospace;
-            color: #79c0ff;
-            white-space: pre;
-            overflow-x: auto;
-        }
+---
 
-        .keyword {
-            color: #ff7b72;
-        }
+### 🧠 The ML Pipeline (Tech Stack)
 
-        .string {
-            color: #a5d6ff;
-        }
+| **Stage** | **Arsenal** |
+| :--- | :--- |
+| **Data Engineering** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql) |
+| **Modeling & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) ![Scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn) |
+| **GenAI & NLP** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai) |
+| **Deployment** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
 
-        .function {
-            color: #d2a8ff;
-        }
+---
 
-        h3 {
-            border-bottom: 1px solid #30363d;
-            padding-bottom: 10px;
-            margin-top: 40px;
-            font-family: -apple-system, sans-serif;
-        }
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandra142&show_icons=true&theme=gotham&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra142&theme=gotham&hide_border=true" width="48%" />
+</p>
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
+<!-- Top Languages Bar -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra142&layout=compact&theme=gotham&hide_border=true" width="100%" />
 
-        td,
-        th {
-            border: 1px solid #30363d;
-            padding: 10px;
-            text-align: left;
-        }
+---
 
-        th {
-            background-color: #161b22;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="header">
-        <!-- Static placeholder for typing SVG -->
-        <h2 style="color: #3399FF;">&gt; input: Chandra.role<br>&gt; output: "AI Engineer"</h2>
-        <h3>Turning Data into Intelligence 🧠</h3>
-
-        <div style="display:flex; justify-content:center; gap:10px; margin-top:20px;">
-            <span
-                style="background:#0A66C2; color:white; padding:5px 10px; border-radius:15px; font-family:sans-serif; font-size:0.8em;">LinkedIn</span>
-            <span
-                style="background:#EA4335; color:white; padding:5px 10px; border-radius:15px; font-family:sans-serif; font-size:0.8em;">Email</span>
-            <span
-                style="background:#7e22ce; color:white; padding:5px 10px; border-radius:15px; font-family:sans-serif; font-size:0.8em;">Portfolio</span>
-        </div>
-    </div>
-
-    <h3>👨‍💻 Identity Matrix (The Code Bio)</h3>
-    <div class="code-block">
-        <span class="keyword">class</span> <span class="function">MLEngineer</span>:
-        <span class="keyword">def</span> <span class="function">__init__</span>(self):
-        self.name = <span class="string">"Chandra Gupta"</span>
-        self.role = <span class="string">"AI & ML Engineer"</span>
-        self.language = [<span class="string">"Python"</span>, <span class="string">"English"</span>, <span
-            class="string">"Hindi"</span>]
-
-        <span class="keyword">def</span> <span class="function">current_focus</span>(self):
-        <span class="keyword">return</span> {
-        <span class="string">"Research"</span>: <span class="string">"Low-Resource NLP (Nepali)"</span>,
-        <span class="string">"Building"</span>: <span class="string">"RAG Pipelines"</span>,
-        <span class="string">"Learning"</span>: <span class="string">"LLM Fine-Tuning"</span>
-        }
-
-        me = MLEngineer()
-        print(me.current_focus())
-    </div>
-
-    <h3>🧠 The ML Pipeline (Tech Stack)</h3>
-    <table>
-        <thead>
-            <tr>
-                <th>Stage</th>
-                <th>Arsenal</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><strong>Data Engineering</strong></td>
-                <td>Pandas • NumPy • SQL</td>
-            </tr>
-            <tr>
-                <td><strong>Modeling & AI</strong></td>
-                <td>TensorFlow • PyTorch • Scikit-Learn</td>
-            </tr>
-            <tr>
-                <td><strong>GenAI & NLP</strong></td>
-                <td>LangChain • HuggingFace • OpenAI</td>
-            </tr>
-            <tr>
-                <td><strong>Deployment</strong></td>
-                <td>Docker • Streamlit • Git</td>
-            </tr>
-        </tbody>
-    </table>
-
-    <h3>📊 GitHub Analytics (Dark Mode)</h3>
-    <div style="display:flex; gap:10px; margin-top:20px;">
-        <div
-            style="flex:1; height:150px; background:#0d1117; border:1px solid #30363d; display:flex; align-items:center; justify-content:center; color:#8b949e;">
-            Stats Card (Gotham Theme)</div>
-        <div
-            style="flex:1; height:150px; background:#0d1117; border:1px solid #30363d; display:flex; align-items:center; justify-content:center; color:#8b949e;">
-            Streak Card (Gotham Theme)</div>
-    </div>
-
-</body>
-
-</html>
+<p align="center">
+  <i>"Talk is cheap. Show me the code."</i>
+</p>

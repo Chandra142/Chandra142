@@ -1,211 +1,188 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:0d1117&height=200&section=header&text=Ram%20Chandra%20Gupta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+</p>
+
 <!-- Header -->
-<h1 align="center">Hey 👋, I'm Chandra Gupta</h1>
-<h3 align="center">💻 AI & Machine Learning Engineer | 🚀 Tech Enthusiast | 🧠 Lifelong Learner </h3>   
+<h1 align="center">Hey 👋, I'm Ram Chandra Gupta</h1>
+<h3 align="center">🤖 AI & ML Engineer | 🚀 RAG & NLP Specialist | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-    <!-- 3D Neural Network Animation -->
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+RAG+Systems+%26+LLM+Applications;NLP+%7C+Computer+Vision+%7C+MLOps;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
- <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer+from+India;Building+Intelligent+RAG+Systems;Always+Learning+Something+New" />
-
-</p>  
-
-           
-
 ---
 
-
-
-<!--Social Badges -->
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandra142/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://chandra142.github.io" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-
-  <a href="https://codolio.com/profile/Chandra142" target="_blank" title="Codolio">
-    <img src="https://img.shields.io/badge/Codolio-Profile-4D4D4D?style=for-the-badge&logo=codewars&logoColor=white" alt="Codolio" />
+  <a href="https://github.com/Chandra142">
+    <img src="https://komarev.com/ghpvc/?username=Chandra142&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" />
   </a>
 </p>
-
-
-
-
----
-
-## 🧑‍💻 About Me-
-
-- 💼 AI & Machine Learning Engineer (Specializing in NLP & RAG)
-- 🛠️ Passionate about clean code and scalable AI solutions
-- 🌱 Exploring Computer Vision, LLMs, and System Design
-- ☕ I debug faster with chai/coffee in hand!
-
-
----
-
----
-
-## 🛠️ Tech Stack-
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <a href="https://www.python.org/" target="_blank" title="Python" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0, 183, 255, 0.6);" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandra142/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(238, 76, 44, 0.6);" />
+  <a href="mailto:ramcgupta.ml@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tensorflow.org/" target="_blank" title="TensorFlow" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(255, 111, 0, 0.6);" />
+  <a href="https://chandra142.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://opencv.org/" target="_blank" title="OpenCV" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" style="border-radius:12px; box-shadow: 0 255 0, 0.6);" />
+  <a href="https://leetcode.com/u/Chandra142" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(247, 147, 30, 0.6);" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(21, 4, 88, 0.6);" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(240, 80, 51, 0.6);" />
-  </a>
-  <a href="https://github.com/" target="_blank" title="GitHub" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(102, 102, 102, 0.6);" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0, 123, 255, 0.6);" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(255, 153, 0, 0.6);" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="border-radius:12px; box-shadow: 0 6px 12px rgba(0, 122, 204, 0.6);" />
+  <a href="https://codolio.com/profile/Chandra142" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-4D4D4D?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
 </p>
 
+---
 
+## 🧑‍💻 About Me
+
+<img align="right" alt="AI coding gif" height="250" width="280"
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I am a highly motivated **AI & Machine Learning Engineer** with a strong focus on building intelligent systems — from **Retrieval-Augmented Generation pipelines** and **NLP models** to **Computer Vision** applications. I love turning research into real-world solutions.
+
+- 🎓 B.Tech CSE — Lovely Professional University
+- 💼 Specializing in **NLP, RAG Systems & Computer Vision**
+- 🛠️ Passionate about clean, scalable, and production-ready AI solutions
+- 🌱 Currently exploring **LLMs, System Design & MLOps**
+- 🤝 Looking to collaborate on **AI/ML projects & Open Source**
+- ☕ I train models faster with chai in hand!
+
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=800&lines=%24+whoami+RamChandraGupta;%24+role+AI+%26+ML+Engineer;%24+stack+Python+%7C+PyTorch+%7C+LangChain+%7C+FAISS;%24+focus+RAG+Systems+%7C+NLP+%7C+Computer+Vision;%24+learning+LLMs+%7C+MLOps+%7C+System+Design;%24+philosophy+Clean+Code+%7C+Scalable+AI;%24+fuel+Chai+%E2%98%95+Lo-Fi+%F0%9F%8E%A7)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+</p>
+
+<p align="center">
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
+</p>
+
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chandra142&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra142&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chandra142&show_icons=true&theme=tokyonight&border_radius=10" width="47%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra142&layout=compact&theme=tokyonight&border_radius=10" width="47%" />
 </p>
 
-
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandra142&theme=darkhub&no-frame=true&row=1&column=7" style="display:block;" onerror="this.style.display='none';" />
-</p>-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandra142&theme=darkhub&no-frame=true&row=1&column=7" alt="" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandra142&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
-
-
-
-
-  <p align="center">
-  <img src="https://github.com/Chandra142/Chandra142/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-
-
-
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chandra142/Chandra142/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Chandra142/Chandra142/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/Chandra142/Chandra142/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
-## 🏆 Competitive Programming & Problem Solving
+## 🏆 Competitive Programming
 
-| 🌐 Platform | 🏅 Rating / Rank | 🔗 Profile Badge |
-| :--- | :--- | :--- |
-| **LeetCode** | **1415** (Max) | <a href="https://leetcode.com/u/Chandra142" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25"/></a> |
-| **GeeksForGeeks** | **200+** Problems | <a href="https://www.geeksforgeeks.org/user/ramchandargupta142" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="25"/></a> |
-| **CodeChef** | **1 Star** (937) | <a href="https://www.codechef.com/users/chandra_gupta0" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="25"/></a> |
-| **Codeforces** | **Max Pupil** | <a href="https://codeforces.com/profile/ramchandargupta142" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" height="25"/></a> |
-| **HackerRank** | **5 Star** (Java) | <a href="https://www.hackerrank.com/profile/ramchandargupta1" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="25"/></a> |
-| **AtCoder** | Participant | <a href="https://atcoder.jp/users/Chandra_142" target="_blank"><img src="https://img.shields.io/badge/-AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" height="25"/></a> |
-| **Coding Ninjas** | Problem Solver | <a href="https://www.naukri.com/code360/profile/MrChandra" target="_blank"><img src="https://img.shields.io/badge/-CodeStudio-004482?style=for-the-badge&logo=codingninjas&logoColor=white" height="25"/></a> |
-
----
-
-### 🏅 Open Source Contributor
-
-<p align="center">
-  <b>🌱 Proud Open Source Contributor 💻 | Building AI for the Future 🎉</b>
-</p>
-
-
+| Platform | Achievement | Profile |
+|:---|:---|:---|
+| **LeetCode** | Rating: 1415 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Chandra142) |
+| **GeeksForGeeks** | 200+ Problems | [![GFG](https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ramchandargupta142) |
+| **HackerRank** | 5 Star — Java | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ramchandargupta1) |
+| **CodeChef** | 1 Star (937) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/chandra_gupta0) |
+| **Codeforces** | Pupil | [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ramchandargupta142) |
+| **AtCoder** | Active Participant | [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Chandra_142) |
+| **Coding Ninjas** | Problem Solver | [![CodingNinjas](https://img.shields.io/badge/CodingNinjas-004482?style=flat-square&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/MrChandra) |
 
 ---
 
-## 🔥 GitHub Activity Graph
+## 🔥 GitHub Activity
+
 <p align="center">
-  <a href="https://github.com/Chandra142" title="Check out my GitHub profile!">
-    <img 
-      src="https://komarev.com/ghpvc/?username=Chandra142&label=👁️+Profile+Views&color=brightgreen&style=for-the-badge" 
-      alt="Profile Views" 
-    />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandra142&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandra142&theme=react-dark&area=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandra142&theme=tokyonight" width="48%" alt="" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Chandra142&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandra142&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandra142&theme=github_dark" width="95%" />
 </p>
 
-
-
-
-
-
-### 🌐 Innovations I Recently Enjoyed
-- ["Retrieval-Augmented Generation (RAG) Explained"](https://www.google.com/search?q=RAG+explained)
-- ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
-
-
+<!-- Contribution Grid -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/00e676/Chandra142" alt="GitHub Contribution Grid" width="95%" />
+</p>
 
 ---
 
-## 🚀 Projects
+### 🌐 Articles I Recently Enjoyed
 
-- [🔗 NepaGen-RAG](https://github.com/Chandra142/NepaGen-RAG) — 🇳🇵 RAG for Low-Resource Languages
-A specialized QA pipeline answering questions in Nepali language using hybrid search vectors. Reduces hallucination by 27% compared to baseline LLMs.
-
-- [🔗 Oil Spill Detection](https://github.com/Chandra142/Oil-Spill-Detection) — 🌊 Satellite Vision System
-ML system using Random Forest and SVM models to detect oil spills from satellite imagery, enabling early environmental warnings.
+- ["Retrieval-Augmented Generation (RAG) Explained"](https://arxiv.org/abs/2005.11401)
+- ["Attention Is All You Need — Original Transformer Paper"](https://arxiv.org/abs/1706.03762)
+- ["LangChain: Build LLM-powered Applications"](https://python.langchain.com/docs/get_started/introduction)
 
 ---
 
 ## 🎯 Fun Facts
 
-- 🎧 🌀 Code flows smoother with Lo-Fi in the background
-- 🧠 I see matrices in my sleep
-- 🧩 Love solving puzzles and debugging weird bugs
+- 🎧 Lo-Fi beats = cleaner model training
+- 🧠 I see tensors and gradients in my sleep
+- 🧩 Love debugging weird CUDA errors at 2 AM
+- ☕ Chai-powered AI engineer
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=programming" alt="Programming Quote" />
+  <img width="340" src="https://quotes-github-readme.vercel.app/api?type=programming" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="420" src="https://github-contributor-stats.vercel.app/api?username=Chandra142&limit=5&theme=tokyonight" />
 </p>
 
 ---
-
 ## 📬 Let's Connect
 
-> 💼 Open to freelance projects, collaboration opportunities, or just a good tech talk!
+> 💼 Open to internships, full-time roles, freelance AI/ML projects, and meaningful collaborations!
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and creators. Whether you want to discuss an idea, ask a question, or build something together — don’t hesitate to reach out!
+I'm always excited to connect with fellow developers, researchers, and builders. Whether you want to discuss an idea, ask a question, or build something intelligent together — don't hesitate to reach out!
 
-📧 Email: ramchandargupta142@gmail.com  
-💬 DM me on [LinkedIn](https://www.linkedin.com/in/chandra142/)  
+📧 Email: ramcgupta.ml@gmail.com
+📱 Phone: +91 8928150149
+💬 DM me on [LinkedIn](https://www.linkedin.com/in/chandra142/)
+🌐 Explore more on [My Portfolio](https://chandra142.github.io)
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:0d1117&height=120&section=footer" width="100%" />
+</p>

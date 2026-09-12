@@ -56,6 +56,14 @@ I am a highly motivated **AI & Machine Learning Engineer** with a strong focus o
 
 ---
 
+<p align="center">
+  <img
+    src="https://wakatime.com/share/@e7637491-304b-46bd-8c5b-0fe8581f24db/a2974dcd-9325-4e27-80a0-2225c529a2c0.svg"
+    width="100%"
+    alt="WakaTime Coding Activity"
+  />
+</p>
+
 ## 🛠️ Tech Stack
 
 <p align="center">

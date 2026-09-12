@@ -55,11 +55,11 @@ I am a highly motivated **AI & Machine Learning Engineer** with a strong focus o
 ![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&width=800&lines=%24+whoami+RamChandraGupta;%24+role+AI+%26+ML+Engineer;%24+stack+Python+%7C+PyTorch+%7C+LangChain+%7C+FAISS;%24+focus+RAG+Systems+%7C+NLP+%7C+Computer+Vision;%24+learning+LLMs+%7C+MLOps+%7C+System+Design;%24+philosophy+Clean+Code+%7C+Scalable+AI;%24+fuel+Chai+%E2%98%95+Lo-Fi+%F0%9F%8E%A7)
 
 ---
-
+## ⌨️ Coding Activity
 <p align="center">
   <img
     src="https://wakatime.com/share/@e7637491-304b-46bd-8c5b-0fe8581f24db/a2974dcd-9325-4e27-80a0-2225c529a2c0.svg"
-    width="100%"
+    width="50%"
     alt="WakaTime Coding Activity"
   />
 </p>

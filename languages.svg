@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="560"
+     viewBox="0 0 1000 560">
+
+  <defs>
+    <linearGradient id="background"
+                    x1="0"
+                    y1="0"
+                    x2="1"
+                    y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect x="5"
+        y="5"
+        width="990"
+        height="550"
+        rx="28"
+        fill="url(#background)"
+        stroke="#22d3ee"
+        stroke-width="2"
+        stroke-opacity="0.35"/>
+
+  <!-- Title -->
+  <text x="500"
+        y="55"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="30"
+        font-weight="700">
+    Languages over All Time
+  </text>
+
+  <text x="500"
+        y="83"
+        text-anchor="middle"
+        fill="#67e8f9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15">
+    Powered by WakaTime
+  </text>
+
+  <!-- ========================= -->
+  <!-- DONUT CHART               -->
+  <!-- ========================= -->
+
+  <!-- Donut background -->
+  <circle cx="285"
+          cy="305"
+          r="145"
+          fill="none"
+          stroke="#1f2937"
+          stroke-width="45"/>
+
+  <!-- Python 77.10% -->
+  <circle cx="285"
+          cy="305"
+          r="145"
+          fill="none"
+          stroke="#3776AB"
+          stroke-width="45"
+          stroke-linecap="butt"
+          stroke-dasharray="703.2 911.1"
+          stroke-dashoffset="0"
+          transform="rotate(-90 285 305)"
+          filter="url(#glow)"/>
+
+  <!-- Other 16.63% -->
+  <circle cx="285"
+          cy="305"
+          r="145"
+          fill="none"
+          stroke="#9CA3AF"
+          stroke-width="45"
+          stroke-linecap="butt"
+          stroke-dasharray="151.6 911.1"
+          stroke-dashoffset="-703.2"
+          transform="rotate(-90 285 305)"/>
+
+  <!-- Markdown 6.17% -->
+  <circle cx="285"
+          cy="305"
+          r="145"
+          fill="none"
+          stroke="#F59E0B"
+          stroke-width="45"
+          stroke-linecap="butt"
+          stroke-dasharray="56.2 911.1"
+          stroke-dashoffset="-854.8"
+          transform="rotate(-90 285 305)"/>
+
+  <!-- Text 0.11% -->
+  <circle cx="285"
+          cy="305"
+          r="145"
+          fill="none"
+          stroke="#06B6D4"
+          stroke-width="45"
+          stroke-linecap="butt"
+          stroke-dasharray="1 911.1"
+          stroke-dashoffset="-911"
+          transform="rotate(-90 285 305)"/>
+
+  <!-- Donut center -->
+  <circle cx="285"
+          cy="305"
+          r="108"
+          fill="#0b1220"/>
+
+  <text x="285"
+        y="292"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="700">
+    WakaTime
+  </text>
+
+  <text x="285"
+        y="320"
+        text-anchor="middle"
+        fill="#67e8f9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15">
+    Languages
+  </text>
+
+  <!-- ========================= -->
+  <!-- LANGUAGE LEGEND            -->
+  <!-- ========================= -->
+
+  <!-- Python -->
+  <circle cx="525" cy="155" r="8" fill="#3776AB"/>
+
+  <text x="548"
+        y="161"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="600">
+    Python
+  </text>
+
+  <text x="925"
+        y="161"
+        text-anchor="end"
+        fill="#67e8f9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="700">
+    77.10%
+  </text>
+
+  <!-- Other -->
+  <circle cx="525" cy="220" r="8" fill="#9CA3AF"/>
+
+  <text x="548"
+        y="226"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="600">
+    Other
+  </text>
+
+  <text x="925"
+        y="226"
+        text-anchor="end"
+        fill="#67e8f9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="700">
+    16.63%
+  </text>
+
+  <!-- Markdown -->
+  <circle cx="525" cy="285" r="8" fill="#F59E0B"/>
+
+  <text x="548"
+        y="291"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="600">
+    Markdown
+  </text>
+
+  <text x="925"
+        y="291"
+        text-anchor="end"
+        fill="#67e8f9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="700">
+    6.17%
+  </text>
+
+  <!-- Text -->
+  <circle cx="525" cy="350" r="8" fill="#06B6D4"/>
+
+  <text x="548"
+        y="356"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="600">
+    Text
+  </text>
+
+  <text x="925"
+        y="356"
+        text-anchor="end"
+        fill="#67e8f9"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="700">
+    0.11%
+  </text>
+
+  <!-- ========================= -->
+  <!-- FOOTER                     -->
+  <!-- ========================= -->
+
+  <line x1="525"
+        y1="400"
+        x2="925"
+        y2="400"
+        stroke="#22d3ee"
+        stroke-opacity="0.18"/>
+
+  <text x="525"
+        y="435"
+        fill="#9CA3AF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14">
+    Total coding distribution
+  </text>
+
+  <text x="925"
+        y="435"
+        text-anchor="end"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        font-weight="700">
+    100%
+  </text>
+
+  <text x="500"
+        y="515"
+        text-anchor="middle"
+        fill="#64748B"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="13">
+    Data from WakaTime • Chandra142
+  </text>
+
+</svg>
